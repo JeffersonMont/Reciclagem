@@ -21,8 +21,14 @@ main {
     text-align: center;
 }
 
-.Oquepodeserreciclado, .Comoreciclar {
+.Vocepossuieducaçãoambiental, .Oquepodeserreciclado, .Comoreciclar, .importância, .Cpy {
     margin: 30px 0;
     text-align: center;
+    width: 100%;
+}
+
+.lista, .img {
+    margin: 30px 0;
+    text-align: left;
     width: 100%;
 }
